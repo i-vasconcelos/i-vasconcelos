@@ -2,7 +2,8 @@
 - 👨🏼‍💼 Formado em Engenharia Elétrica pela USJT.
 - 👨🏼‍🏭 Atuamente trabalho como Engenheiro Projetista Eletrônico.
 - 💾 Aqui você encontrará muito conteúdo sobre Eletrônica de Potência e Sistemas Embarcados.
-- 😉 Sempre disposto a conversar sobre eletrônica ou assuntos profissionais, basta entrar em contato!
+- 😉 Sempre disposto a conversar sobre eletrônica ou assuntos profissionais, basta entrar em contato! i.vasconcelos27@outlook.com
+  ![Isaac Vasconcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=i-vasconcelos&show_icons=true&theme=dark)
   
 
 <!--
